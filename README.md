@@ -59,7 +59,3 @@ The data reflects real-world challenges such as skewed distributions, outliers, 
 - Multicollinearity impacts coefficient stability in linear regression
 - Tree-based models perform well for tip classification
 - Feature engineering improves overall model performance
-
----
-
-## Repository Structure
